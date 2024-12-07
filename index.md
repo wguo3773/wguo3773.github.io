@@ -16,7 +16,7 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) [GitHub](https://github.com/wguo3773)
 - ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white) [Google Scholar](https://scholar.google.com/citations?user=Do3xkCgAAAAJ&hl=en)
 
----
+
 
 <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
   <a href="#bio" style="text-decoration: none;">
@@ -65,7 +65,7 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
   </a>
 </div>
 
----
+
 
 
 ## **Bio**
@@ -76,7 +76,6 @@ Let’s connect and create something amazing together!
 
 
 
----
 
 
 
@@ -135,7 +134,6 @@ Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zhe
 
 
 
----
 
 
 
@@ -153,7 +151,6 @@ Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zhe
 [Slides](/assets/publications/RECOMBINE%20ppt.pptx) 
 -->
 
----
 
 
 
@@ -168,8 +165,7 @@ Chancellor's Scholarship (2014), University of Queensland<br>
 Australian Mathematics Competition – Prize (2012), Recognized for being in the Top 0.3% 
 
 
-
---- 
+ 
 
 
 
