@@ -6,8 +6,5 @@ theme: minima
 navigation:
   - title: "Home"
     url: /
-  - title: "Bio"
-    url: /bio/
-  - title: "Publications"
-    url: /publications/
+
 
