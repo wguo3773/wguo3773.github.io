@@ -100,9 +100,9 @@ Let’s connect and create something amazing together!
 *ArXiv Preprint (2024)*  
 ![Figure 2](/assets/images/pub_fig2.png)
 
-### [**Polyinosinic:Polycytidylic Acid Alters the Internalization, Persistence and Inflammatory Response to Pseudomonas Aeruginosa in Bronchial Epithelial Cells**] 
+### [**Polyinosinic:Polycytidylic Acid Alters the Internalization, Persistence and Inflammatory Response to Pseudomonas Aeruginosa in Bronchial Epithelial Cells**](https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A7434)
 **Wanru Guo**, Simon Rousseau 
-*American Journal of Respiratory and Critical Care Medicine 2020;201:A7434* 
+*American Journal of Respiratory and Critical Care Medicine (2020);201:A7434* 
 
 
 
