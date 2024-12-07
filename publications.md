@@ -7,12 +7,12 @@ permalink: /publications/
 
 # Publications
 
-## **1. Modeling the risk of treatment discontinuation in MOUD - Subgroup analysis of disparities using Causal Machine Learning **
+Modeling the risk of treatment discontinuation in MOUD - Subgroup analysis of disparities using Causal Machine Learning  
 Authors: Wanru Guo1, Paula Jaimes Buitron2, Yanmin Gong3, Yuanxiong Guo4, Carolina Vivas Valencia2, Cici Bauer1
 
 **Journal/Conference:** In Submission   
 
-![Figure 1](assets/images/publication1_figure.jpg)  
+![Figure 1](assets/images/pub_fig1.jpg)  
 
 [Slides](https://example.com/publication1_slides.pdf) - [Code](https://example.com/publication1_code.zip) - [Poster](https://example.com/publication1_poster.pdf) - [Paper](https://example.com/publication1_paper.pdf)
 
