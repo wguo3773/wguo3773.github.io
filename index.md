@@ -62,31 +62,17 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
       Awards
     </div>
   </a>
-</div>
-
-<!-- Awards Section -->
-<div id="awards">
-  <h2>Awards</h2>
-  <p>List your awards here.</p>
-</div>
-
-<!-- Gallery Section -->
-<div id="gallery" style="margin-top: 40px;">
-  <h2>Gallery</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
-    <div>
-      <img src="/assets/images/gallery1.jpg" alt="Gallery Image 1" style="width: 100%; height: auto; border-radius: 10px;">
-      <p style="text-align: center; margin-top: 5px;">Caption 1</p>
+  <a href="#gallery" style="text-decoration: none;">
+    <div style="
+      padding: 10px 20px; 
+      font-size: 16px; 
+      cursor: pointer; 
+      border-bottom: 2px solid transparent;
+      transition: all 0.3s ease;
+    ">
+      Gallery
     </div>
-    <div>
-      <img src="/assets/images/gallery2.jpg" alt="Gallery Image 2" style="width: 100%; height: auto; border-radius: 10px;">
-      <p style="text-align: center; margin-top: 5px;">Caption 2</p>
-    </div>
-    <div>
-      <img src="/assets/images/gallery3.jpg" alt="Gallery Image 3" style="width: 100%; height: auto; border-radius: 10px;">
-      <p style="text-align: center; margin-top: 5px;">Caption 3</p>
-    </div>
-  </div>
+  </a>
 </div>
 
 ---
