@@ -1,3 +1,13 @@
-title: "Wanru Guo"
-description: "Personal website"
+title: "Wanru Guo's Website"
+description: "Welcome to my personal website."
 theme: minima
+
+# Navigation Links
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Bio"
+    url: /bio/
+  - title: "Publications"
+    url: /publications/
+
