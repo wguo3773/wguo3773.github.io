@@ -162,15 +162,7 @@ International Pharmacy Scholarship (2014), University of Queensland<br>
 Chancellor's Scholarship (2014), University of Queensland<br>
 Australian Mathematics Competition – Prize (2012), Recognized for being in the Top 0.3% 
 
----
-
-## Gallery 
-
-*A Special Conference on Biostatistics in the New Era of Data-Driven Sciences, 2024 Nov. 15-16; Houston, TX.*
-
-![Gallery 1](/assets/images/gallery1.png)  
-
-
+--- 
 
 
 
