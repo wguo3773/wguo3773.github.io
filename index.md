@@ -91,23 +91,32 @@ Let’s connect and create something amazing together!
 
 ### **Modeling the risk of treatment discontinuation in MOUD - Subgroup analysis of disparities using Causal Machine Learning**  
 **Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer  
+
 *In Submission (2024+)* 
+
 ![Figure 1](/assets/images/pub_fig1.png)  
+
 [**Slides**](assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [**Code**](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [**Poster**](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20poster%20presentation%20UTH%20conference%20FINAL.pptx)
 
 ### [**Performance Analysis of Monte Carlo Algorithms in Dense Subgraph Identification**](/assets/publications/paper_dense_subgraphs.pdf)
-**Wanru Guo**  
+**Wanru Guo** 
+
 *ArXiv Preprint (2024)*  
+
 ![Figure 2](/assets/images/pub_fig2.png)
 
 ### [**Polyinosinic:Polycytidylic Acid Alters the Internalization, Persistence and Inflammatory Response to Pseudomonas Aeruginosa in Bronchial Epithelial Cells**](https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A7434)
 **Wanru Guo**, Simon Rousseau 
+
 *American Journal of Respiratory and Critical Care Medicine (2020);201:A7434* 
+
 ![Figure 3](/assets/images/pub_fig3.png)
 
-### [**The impact of the type I interferon mediated antiviral immune response on the response to Pseudomonas aeruginosa infection in bronchial epithelial cells**]
-**Wanru Guo**, Simon Rousseau  
+### [**The impact of the type I interferon mediated antiviral immune response on the response to Pseudomonas aeruginosa infection in bronchial epithelial cells**](/assets/publications/thesis_mspharamcology.pdf)
+**Wanru Guo**, Simon Rousseau 
+
 *Msc Thesis, McGill University (2020)*
+
 ![Figure 4](/assets/images/pub_fig4.png)
 
 
