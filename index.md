@@ -106,6 +106,17 @@ Let’s connect and create something amazing together!
 *ArXiv Preprint (2024)*  
 ![Figure 2](/assets/images/pub_fig2.png)
 
+### [**Impact of alternative histopathology protocols in the dermatopathology laboratory: A prospective quality improvement study**](https://onlinelibrary.wiley.com/doi/abs/10.1111/cup.14400)
+Alexander Hammond, Sarah Covey, **Wanru Guo**, Scott Gregory, Nicole R Bender, Kiran Motaparthi, Addie Walker
+
+### [**Attitudes toward allopathic and osteopathic candidates in the dermatologic residency application process**](https://www.sciencedirect.com/science/article/pii/S0738081X22001286) 
+Erika J Tvedten, Jeffrey P Turnbull, **Wanru Guo**, Kiran Motaparthi
+*Clinics in Dermatology (2023)* 
+
+### [**Training dermatology residents in dermatoscopy: A case control lecture series assessment**](https://www.sciencedirect.com/science/article/pii/S0738081X22001079) 
+Navid Farahbakhsh, Adriana Della Porta, Reesa L Monir, **Wanru Guo**, Jane M Grant-Kels, Kiran Motaparthi
+*Clinics in Dermatology (2022)* 
+
 ### [**Polyinosinic:Polycytidylic Acid Alters the Internalization, Persistence and Inflammatory Response to Pseudomonas Aeruginosa in Bronchial Epithelial Cells**](https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A7434)
 **Wanru Guo**, Simon Rousseau 
 *American Journal of Respiratory and Critical Care Medicine (2020);201:A7434* 
