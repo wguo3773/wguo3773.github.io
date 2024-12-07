@@ -98,8 +98,8 @@ Let’s connect and create something amazing together!
 ### **Identifying rare cell populations and improving scRNA-seq clustering accuracy using the RECOMBINE SHC-SSL and SHC-FL algorithms**
 **Wanru Guo**, Xubin Li, Anil Korkut 
 *RECOMB 2024*
-[**Slides**](/assets/publications/RECOMBINE%20ppt.pptx) - [**Code**](
-
+![Figure 6](/assets/images/pub_fig6.png)  
+[**Slides**](/assets/publications/RECOMBINE%20ppt.pptx) - [**Code**](/assets/publications/RECOMBINE_final_results_WG.html) 
 
 ### [**Performance Analysis of Monte Carlo Algorithms in Dense Subgraph Identification**](/assets/publications/paper_dense_subgraphs.pdf)
 **Wanru Guo** 
