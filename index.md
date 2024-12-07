@@ -108,6 +108,7 @@ Let’s connect and create something amazing together!
 
 ### [**Impact of alternative histopathology protocols in the dermatopathology laboratory: A prospective quality improvement study**](https://onlinelibrary.wiley.com/doi/abs/10.1111/cup.14400)
 Alexander Hammond, Sarah Covey, **Wanru Guo**, Scott Gregory, Nicole R Bender, Kiran Motaparthi, Addie Walker
+*Journal of Cutaneous Pathology (2023)* 
 
 ### [**Attitudes toward allopathic and osteopathic candidates in the dermatologic residency application process**](https://www.sciencedirect.com/science/article/pii/S0738081X22001286) 
 Erika J Tvedten, Jeffrey P Turnbull, **Wanru Guo**, Kiran Motaparthi
