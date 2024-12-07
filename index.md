@@ -11,15 +11,9 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/wanru-g/" target="_blank">
-  <i class="fab fa-linkedin" style="font-size: 24px; margin-right: 15px;"></i>
-</a>
-<a href="https://scholar.google.com/citations?user=Do3xkCgAAAAJ&hl=en" target="_blank">
-  <i class="fas fa-graduation-cap" style="font-size: 24px; margin-right: 15px;"></i>
-</a>
-<a href="https://github.com/wguo3773" target="_blank">
-  <i class="fab fa-github" style="font-size: 24px; margin-right: 15px;"></i>
-</a>
+- [LinkedIn](https://www.linkedin.com/in/wanru-g/)
+- [Google Scholar](https://scholar.google.com/citations?user=Do3xkCgAAAAJ&hl=en)
+- [GitHub](https://github.com/wguo3773)
 
 ---
 
