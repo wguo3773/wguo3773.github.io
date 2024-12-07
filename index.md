@@ -15,6 +15,13 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
 - [Google Scholar](https://scholar.google.com/citations?user=Do3xkCgAAAAJ&hl=en)
 - [GitHub](https://github.com/wguo3773)
 
+## Connect With Me
+
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) [wanru.guo@uth.tmc.edu](mailto:wanru.guo@uth.tmc.edu)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/wanru-g/)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) [GitHub](https://github.com/wguo3773)
+- ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white) [Google Scholar](https://scholar.google.com/citations?user=Do3xkCgAAAAJ&hl=en)
+
 ---
 
 <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
