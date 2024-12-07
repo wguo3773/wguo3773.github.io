@@ -104,7 +104,9 @@ Let’s connect and create something amazing together!
 
 ![Figure 2](/assets/images/pub_fig2.png)  
 
-[**Paper**](assets/publications/WGUO%20finale%20Presentation_allgroup.pptx)
+[**Paper**](/assets/publications/paper_dense_subgraphs.pdf)
+
+
 
 
 
