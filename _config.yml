@@ -1,6 +1,16 @@
 title: "Wanru Guo's Website"
 description: "Welcome to my personal website."
 theme: minima
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Add this to the head
+includes:
+  - css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
 
 # Navigation Links
 navigation:
