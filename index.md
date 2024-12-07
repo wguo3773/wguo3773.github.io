@@ -181,6 +181,7 @@ Australian Mathematics Competition – Prize (2012), Recognized for being in the
 ## Gallery 
 
 *A Special Conference on Biostatistics in the New Era of Data-Driven Sciences, 2024 Nov. 15-16; Houston, TX.*
+
 ![Gallery 1](/assets/images/gallery1.png)  
 
 
