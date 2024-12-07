@@ -84,13 +84,20 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
 
 ---
 
+<div style="margin-bottom: 40px;">
+
 ## **Bio**
 
 I am a Biostatistician and PhD student at University of Texas Health Science Center at Houston. I specialize in EHR data analytics, causal machine learning, and single-cell multi-omics. I received my MS in Biostatistics from University of Florida, and MS (Thesis) in Pharmacology at McGill University. Previously, I received my Pharmacist training at University of Queensland, Australia, with first-class Honors.
 
 Let’s connect and create something amazing together!
 
+<div style="margin-bottom: 40px;">
+
+</div>
+
 ---
+<div style="margin-bottom: 40px;">
 
 ## **Publications**
 
@@ -143,7 +150,13 @@ Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zhe
 *Vascular Biology (2019)*
 ![Figure 5](/assets/images/pub_fig5.png) 
 
+<div style="margin-bottom: 40px;">
+
+</div>
+
 ---
+
+<div style="margin-bottom: 40px;">
 
 ## Talks
 
@@ -157,7 +170,13 @@ Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zhe
 *International Biometrics Conference 2024*; 2024 Dec. 6-9; Atlanta, GA. 
 [Slides](/assets/publications/RECOMBINE%20ppt.pptx) 
 
+<div style="margin-bottom: 40px;">
+
+</div>
+  
 ---
+
+<div style="margin-bottom: 40px;">
 
 ## Awards
 
@@ -168,6 +187,10 @@ Dean's Commendation for Academic Excellence (Awarded for 8 consecutive semesters
 International Pharmacy Scholarship (2014), University of Queensland<br>
 Chancellor's Scholarship (2014), University of Queensland<br>
 Australian Mathematics Competition – Prize (2012), Recognized for being in the Top 0.3% 
+
+<div style="margin-bottom: 40px;">
+
+</div>
 
 --- 
 
