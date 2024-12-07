@@ -103,7 +103,11 @@ Let’s connect and create something amazing together!
 ### [**Polyinosinic:Polycytidylic Acid Alters the Internalization, Persistence and Inflammatory Response to Pseudomonas Aeruginosa in Bronchial Epithelial Cells**](https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A7434)
 **Wanru Guo**, Simon Rousseau 
 *American Journal of Respiratory and Critical Care Medicine (2020);201:A7434* 
+![Figure 3](/assets/images/pub_fig3.png)
 
-
+### [**The impact of the type I interferon mediated antiviral immune response on the response to Pseudomonas aeruginosa infection in bronchial epithelial cells**]
+**Wanru Guo**, Simon Rousseau  
+*Msc Thesis, McGill University (2020)*
+![Figure 4](/assets/images/pub_fig4.png)
 
 
