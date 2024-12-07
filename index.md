@@ -72,8 +72,7 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
 
 I am a Biostatistician and PhD student at University of Texas Health Science Center at Houston. I specialize in EHR data analytics, causal machine learning, and single-cell multi-omics. I received my MS in Biostatistics from University of Florida, and MS (Thesis) in Pharmacology at McGill University. Previously, I received my Pharmacist training at University of Queensland, Australia, with first-class Honors.
 
-Let’s connect and create something amazing together!
-
+Let’s connect and create something amazing together! <br><br><br><br><br><br>br> 
 
 
 
@@ -130,9 +129,7 @@ Navid Farahbakhsh, Adriana Della Porta, Reesa L Monir, **Wanru Guo**, Jane M Gra
 ### [**GPCR transactivation signalling in vascular smooth muscle cells: role of NADPH oxidases and reactive oxygen species**](https://vb.bioscientifica.com/view/journals/vb/1/1/VB-18-0004.xml)
 Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zheng, Hossein Babaahmadi-Rezaei, Suowen Xu, Danielle Kamato, Peter J Little<br>
 *Vascular Biology (2019)*
-![Figure 5](/assets/images/pub_fig5.png) 
-
-
+![Figure 5](/assets/images/pub_fig5.png)<br><br><br><br><br><br><br> 
 
 
 
@@ -151,7 +148,7 @@ Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zhe
 [Slides](/assets/publications/RECOMBINE%20ppt.pptx) 
 -->
 
-
+<br><br><br><br><br><br><br> 
 
 
 ## Awards
@@ -164,7 +161,7 @@ International Pharmacy Scholarship (2014), University of Queensland<br>
 Chancellor's Scholarship (2014), University of Queensland<br>
 Australian Mathematics Competition – Prize (2012), Recognized for being in the Top 0.3% 
 
-
+<br><br><br> 
  
 
 
