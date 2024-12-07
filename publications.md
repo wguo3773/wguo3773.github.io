@@ -14,7 +14,7 @@ Authors: Wanru Guo1, Paula Jaimes Buitron2, Yanmin Gong3, Yuanxiong Guo4, Caroli
 
 ![Figure 1](assets/images/pub_fig1.jpg)  
 
-[Slides](https://example.com/publication1_slides.pdf) - [Code](https://example.com/publication1_code.zip) - [Poster](https://example.com/publication1_poster.pdf) - [Paper](https://example.com/publication1_paper.pdf)
+[Slides](assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [Code](https://example.com/publication1_code.zip) - [Poster](https://example.com/publication1_poster.pdf) - [Paper](https://example.com/publication1_paper.pdf)
 
 **Abstract:**  
 Brief description of the research, results, and significance.
