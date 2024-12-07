@@ -113,6 +113,8 @@ Let’s connect and create something amazing together!
 ### [**GPCR transactivation signalling in vascular smooth muscle cells: role of NADPH oxidases and reactive oxygen species**](https://vb.bioscientifica.com/view/journals/vb/1/1/VB-18-0004.xml)
 Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zheng, Hossein Babaahmadi-Rezaei, Suowen Xu, Danielle Kamato, Peter J Little
 *Vascular Biology (2019)*
+![Figure 5](/assets/images/pub_fig5.png) 
+
 
 
 
