@@ -95,6 +95,11 @@ Let’s connect and create something amazing together!
 ![Figure 1](/assets/images/pub_fig1.png)  
 [**Slides**](assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [**Code**](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [**Poster**](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20poster%20presentation%20UTH%20conference%20FINAL.pptx)
 
+### **Identifying rare cell populations and improving scRNA-seq clustering accuracy using the RECOMBINE SHC-SSL and SHC-FL algorithms**
+**Wanru Guo**, Xubin Li, Anil Korkut 
+*RECOMB 2024*
+
+
 ### [**Performance Analysis of Monte Carlo Algorithms in Dense Subgraph Identification**](/assets/publications/paper_dense_subgraphs.pdf)
 **Wanru Guo** 
 *ArXiv Preprint (2024)*  
@@ -108,7 +113,6 @@ Let’s connect and create something amazing together!
 ### [**The impact of the type I interferon mediated antiviral immune response on the response to Pseudomonas aeruginosa infection in bronchial epithelial cells**](/assets/publications/thesis_mspharamcology.pdf)
 **Wanru Guo**, Simon Rousseau 
 *Msc Thesis, McGill University (2020)*
-![Figure 4](/assets/images/pub_fig4.png)
 
 ### [**GPCR transactivation signalling in vascular smooth muscle cells: role of NADPH oxidases and reactive oxygen species**](https://vb.bioscientifica.com/view/journals/vb/1/1/VB-18-0004.xml)
 Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zheng, Hossein Babaahmadi-Rezaei, Suowen Xu, Danielle Kamato, Peter J Little
