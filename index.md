@@ -93,7 +93,7 @@ Let’s connect and create something amazing together!
 **Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer  
 *In Submission (2024+)* 
 
-![Figure 1](/assets/images/pub_fig1.png)  
+![Figure 7](/assets/images/pub_fig7.png)  
 [**Slides**](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [**Code**](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [**Poster**](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20poster%20presentation%20UTH%20conference%20FINAL.pptx)
 
 ### **Identifying rare cell populations and improving scRNA-seq clustering accuracy using the RECOMBINE SHC-SSL and SHC-FL algorithms**
