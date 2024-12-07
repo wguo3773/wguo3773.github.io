@@ -17,20 +17,65 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
 
 ---
 
-<div style="margin-bottom: 20px;">
-  <a href="#bio" style="text-decoration: none; margin-right: 15px;">
-    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">Bio</button>
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+  <a href="#bio" style="text-decoration: none;">
+    <button style="
+      padding: 12px 25px; 
+      font-size: 16px; 
+      cursor: pointer; 
+      border-radius: 25px; 
+      border: 2px solid #007BFF; 
+      background-color: #007BFF; 
+      color: white; 
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+      transition: all 0.3s ease;">
+      Bio
+    </button>
   </a>
-  <a href="#publications" style="text-decoration: none; margin-right: 15px;">
-    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">Publications</button>
+  <a href="#publications" style="text-decoration: none;">
+    <button style="
+      padding: 12px 25px; 
+      font-size: 16px; 
+      cursor: pointer; 
+      border-radius: 25px; 
+      border: 2px solid #28A745; 
+      background-color: #28A745; 
+      color: white; 
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+      transition: all 0.3s ease;">
+      Publications
+    </button>
   </a>
-  <a href="#talks" style="text-decoration: none; margin-right: 15px;">
-    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">Talks</button>
+  <a href="#talks" style="text-decoration: none;">
+    <button style="
+      padding: 12px 25px; 
+      font-size: 16px; 
+      cursor: pointer; 
+      border-radius: 25px; 
+      border: 2px solid #FFC107; 
+      background-color: #FFC107; 
+      color: white; 
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+      transition: all 0.3s ease;">
+      Talks
+    </button>
   </a>
   <a href="#awards" style="text-decoration: none;">
-    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">Awards</button>
+    <button style="
+      padding: 12px 25px; 
+      font-size: 16px; 
+      cursor: pointer; 
+      border-radius: 25px; 
+      border: 2px solid #DC3545; 
+      background-color: #DC3545; 
+      color: white; 
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+      transition: all 0.3s ease;">
+      Awards
+    </button>
   </a>
 </div>
+
 
 ---
 
