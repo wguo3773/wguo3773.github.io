@@ -32,7 +32,7 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
       Bio
     </button>
   </a>
-  <a href="#publications" style="text-decoration: none;">
+  <a href="#Featured publications" style="text-decoration: none;">
     <button style="
       padding: 12px 25px; 
       font-size: 16px; 
@@ -87,7 +87,7 @@ Let’s connect and create something amazing together!
 
 ---
 
-## **Publications**
+## **Featured Publications**
 
 ### **Modeling the risk of treatment discontinuation in MOUD - Subgroup analysis of disparities using Causal Machine Learning**  
 **Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer  
@@ -102,6 +102,9 @@ Let’s connect and create something amazing together!
 **Wanru Guo** 
 *ArXiv Preprint* 
 
+![Figure 2](/assets/images/pub_fig2.png)  
+
+[**Paper**](assets/publications/WGUO%20finale%20Presentation_allgroup.pptx)
 
 
 
