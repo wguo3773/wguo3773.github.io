@@ -11,7 +11,7 @@ Authors: Wanru Guo1, Paula Jaimes Buitron2, Yanmin Gong3, Yuanxiong Guo4, Caroli
 
 **Journal/Conference:** In Submission   
 
-![Figure 1](assets/images/pub_fig1.jpg)  
+(assets/images/pub_fig1.jpg)  
 
 [Slides](assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [Code](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [Poster](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20poster%20presentation%20UTH%20conference%20FINAL.pptx) 
 
