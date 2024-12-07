@@ -17,6 +17,23 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
 
 ---
 
+<div style="margin-bottom: 20px;">
+  <a href="#bio" style="text-decoration: none; margin-right: 15px;">
+    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">Bio</button>
+  </a>
+  <a href="#publications" style="text-decoration: none; margin-right: 15px;">
+    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">Publications</button>
+  </a>
+  <a href="#talks" style="text-decoration: none; margin-right: 15px;">
+    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">Talks</button>
+  </a>
+  <a href="#awards" style="text-decoration: none;">
+    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">Awards</button>
+  </a>
+</div>
+
+---
+
 ## **Bio**
 
 I am a Biostatistician and PhD student at University of Texas Health Science Center at Houston. I specialize in EHR data analytics, causal machine learning, and single-cell multi-omics. I received my MS in Biostatistics from University of Florida, and MS (Thesis) in Pharmacology at McGill University. Previously, I received my Pharmacist training at University of Queensland, Australia, with first-class Honors.
