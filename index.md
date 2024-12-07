@@ -17,65 +17,77 @@ Hello! I am Wanru Guo, a biostatistics researcher and PhD student. Connect with 
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
   <a href="#bio" style="text-decoration: none;">
-    <button style="
-      padding: 12px 25px; 
+    <div style="
+      padding: 10px 20px; 
       font-size: 16px; 
       cursor: pointer; 
-      border-radius: 25px; 
-      border: 2px solid #007BFF; 
-      background-color: #007BFF; 
-      color: white; 
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-      transition: all 0.3s ease;">
+      border-bottom: 2px solid transparent;
+      transition: all 0.3s ease;
+    ">
       Bio
-    </button>
+    </div>
   </a>
   <a href="#publications" style="text-decoration: none;">
-    <button style="
-      padding: 12px 25px; 
+    <div style="
+      padding: 10px 20px; 
       font-size: 16px; 
       cursor: pointer; 
-      border-radius: 25px; 
-      border: 2px solid #28A745; 
-      background-color: #28A745; 
-      color: white; 
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-      transition: all 0.3s ease;">
+      border-bottom: 2px solid transparent;
+      transition: all 0.3s ease;
+    ">
       Publications
-    </button>
+    </div>
   </a>
   <a href="#talks" style="text-decoration: none;">
-    <button style="
-      padding: 12px 25px; 
+    <div style="
+      padding: 10px 20px; 
       font-size: 16px; 
       cursor: pointer; 
-      border-radius: 25px; 
-      border: 2px solid #FFC107; 
-      background-color: #FFC107; 
-      color: white; 
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-      transition: all 0.3s ease;">
+      border-bottom: 2px solid transparent;
+      transition: all 0.3s ease;
+    ">
       Talks
-    </button>
+    </div>
   </a>
   <a href="#awards" style="text-decoration: none;">
-    <button style="
-      padding: 12px 25px; 
+    <div style="
+      padding: 10px 20px; 
       font-size: 16px; 
       cursor: pointer; 
-      border-radius: 25px; 
-      border: 2px solid #DC3545; 
-      background-color: #DC3545; 
-      color: white; 
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-      transition: all 0.3s ease;">
+      border-bottom: 2px solid transparent;
+      transition: all 0.3s ease;
+    ">
       Awards
-    </button>
+    </div>
   </a>
 </div>
 
+<!-- Awards Section -->
+<div id="awards">
+  <h2>Awards</h2>
+  <p>List your awards here.</p>
+</div>
+
+<!-- Gallery Section -->
+<div id="gallery" style="margin-top: 40px;">
+  <h2>Gallery</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+    <div>
+      <img src="/assets/images/gallery1.jpg" alt="Gallery Image 1" style="width: 100%; height: auto; border-radius: 10px;">
+      <p style="text-align: center; margin-top: 5px;">Caption 1</p>
+    </div>
+    <div>
+      <img src="/assets/images/gallery2.jpg" alt="Gallery Image 2" style="width: 100%; height: auto; border-radius: 10px;">
+      <p style="text-align: center; margin-top: 5px;">Caption 2</p>
+    </div>
+    <div>
+      <img src="/assets/images/gallery3.jpg" alt="Gallery Image 3" style="width: 100%; height: auto; border-radius: 10px;">
+      <p style="text-align: center; margin-top: 5px;">Caption 3</p>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -90,57 +102,92 @@ Let’s connect and create something amazing together!
 ## **Publications**
 
 ### **Modeling the risk of treatment discontinuation in MOUD - Subgroup analysis of disparities using Causal Machine Learning**  
-**Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer  
+**Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer<br> 
 *In Submission (2024+)* 
 
 ![Figure 7](/assets/images/pub_fig7.png)  
-[**Slides**](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [**Code**](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [**Poster**](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20poster%20presentation%20UTH%20conference%20FINAL.pptx)
+[Slides](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [Code](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [Poster](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20poster%20presentation%20UTH%20conference%20FINAL.pptx)
 
 ### **Identifying rare cell populations and improving scRNA-seq clustering accuracy using the RECOMBINE SHC-SSL and SHC-FL algorithms**
-**Wanru Guo**, Xubin Li, Anil Korkut 
+**Wanru Guo**, Xubin Li, Anil Korkut<br>
 *RECOMB 2024*
 
 ![Figure 6](/assets/images/pub_fig6.png)  
-[**Slides**](/assets/publications/RECOMBINE%20ppt.pptx) - [**Code**](/assets/publications/RECOMBINE_final_results_WG.html) 
+[Slides](/assets/publications/RECOMBINE%20ppt.pptx) - [Code](/assets/publications/RECOMBINE_final_results_WG.html) 
 
 ### [**Performance Analysis of Monte Carlo Algorithms in Dense Subgraph Identification**](/assets/publications/paper_dense_subgraphs.pdf)
-**Wanru Guo** 
+**Wanru Guo**<br>
 *ArXiv Preprint (2024)*  
 ![Figure 2](/assets/images/pub_fig2.png)
 
-### [**Impact of alternative histopathology protocols in the dermatopathology laboratory: A prospective quality improvement study**](https://onlinelibrary.wiley.com/doi/abs/10.1111/cup.14400)
-Alexander Hammond, Sarah Covey, **Wanru Guo**, Scott Gregory, Nicole R Bender, Kiran Motaparthi, Addie Walker
+### [**Multivariate Analysis of the Impact of Demographic and Clinical Factors on Cardiovascular Health**](https://www.medrxiv.org/content/10.1101/2024.05.19.24307595v1) 
+Youssef Benfallah, **Wanru Guo**, Shoaib Sarfraz, Yanyu Yang<br>
+*MedRxiv Preprint (2024)*
 
+### [**Impact of alternative histopathology protocols in the dermatopathology laboratory: A prospective quality improvement study**](https://onlinelibrary.wiley.com/doi/abs/10.1111/cup.14400)
+Alexander Hammond, Sarah Covey, **Wanru Guo**, Scott Gregory, Nicole R Bender, Kiran Motaparthi, Addie Walker<br>
 *Journal of Cutaneous Pathology (2023)* 
 
 ### [**Attitudes toward allopathic and osteopathic candidates in the dermatologic residency application process**](https://www.sciencedirect.com/science/article/pii/S0738081X22001286) 
-Erika J Tvedten, Jeffrey P Turnbull, **Wanru Guo**, Kiran Motaparthi
-
+Erika J Tvedten, Jeffrey P Turnbull, **Wanru Guo**, Kiran Motaparthi<br>
 *Clinics in Dermatology (2023)* 
 
 ### [**Training dermatology residents in dermatoscopy: A case control lecture series assessment**](https://www.sciencedirect.com/science/article/pii/S0738081X22001079) 
-Navid Farahbakhsh, Adriana Della Porta, Reesa L Monir, **Wanru Guo**, Jane M Grant-Kels, Kiran Motaparthi
-
+Navid Farahbakhsh, Adriana Della Porta, Reesa L Monir, **Wanru Guo**, Jane M Grant-Kels, Kiran Motaparthi<br>
 *Clinics in Dermatology (2022)* 
 
 ### [**Polyinosinic:Polycytidylic Acid Alters the Internalization, Persistence and Inflammatory Response to Pseudomonas Aeruginosa in Bronchial Epithelial Cells**](https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A7434)
-**Wanru Guo**, Simon Rousseau 
+**Wanru Guo**, Simon Rousseau<br>
 *American Journal of Respiratory and Critical Care Medicine (2020);201:A7434* 
 ![Figure 3](/assets/images/pub_fig3.png)
 
 ### [**The impact of the type I interferon mediated antiviral immune response on the response to Pseudomonas aeruginosa infection in bronchial epithelial cells**](/assets/publications/thesis_mspharamcology.pdf)
-**Wanru Guo**, Simon Rousseau 
+**Wanru Guo**, Simon Rousseau<br>
 *Msc Thesis, McGill University (2020)*
 
 ### [**GPCR transactivation signalling in vascular smooth muscle cells: role of NADPH oxidases and reactive oxygen species**](https://vb.bioscientifica.com/view/journals/vb/1/1/VB-18-0004.xml)
-Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zheng, Hossein Babaahmadi-Rezaei, Suowen Xu, Danielle Kamato, Peter J Little
-
+Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zheng, Hossein Babaahmadi-Rezaei, Suowen Xu, Danielle Kamato, Peter J Little<br>
 *Vascular Biology (2019)*
 ![Figure 5](/assets/images/pub_fig5.png) 
 
-### [**Multivariate Analysis of the Impact of Demographic and Clinical Factors on Cardiovascular Health**](https://www.medrxiv.org/content/10.1101/2024.05.19.24307595v1) 
-Youssef Benfallah, **Wanru Guo**, Shoaib Sarfraz, Yanyu Yang
-*MedRxiv Preprint (2024)*
+---
+
+## Talks
+
+### Modeling the risk of treatment discontinuation in MOUD - Predictors and Disparities using Statistical and Machine Learning Approaches  
+**Wanru Guo¹**, Paula Jaimes Buitron², Yanmin Gong³, Yuanxiong Guo⁴, Carolina Vivas Valencia², Cici Bauer¹<br> 
+*HACASA Symposium 2025*; 2025 Jan. 17; Houston, TX.  
+[Slides](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) 
+
+### Identifying rare cell populations and improving single cell clustering accuracy using the RECOMBINE algorithm  
+**Wanru Guo**, Xubin Li, Anil Korkut<br>
+*International Biometrics Conference 2024*; 2024 Dec. 6-9; Atlanta, GA. 
+[Slides](/assets/publications/RECOMBINE%20ppt.pptx) 
+
+---
+
+## Awards
+
+Outstanding Achievement Award (2021), University of Florida<br>
+Graduate Excellence Fellowship (2018), McGill University<br>
+Recruitment Award (2018), McGill University<br>
+Dean's Commendation for Academic Excellence (Awarded for 8 consecutive semesters for the duration of my undergraduate), University of Queensland, Australia<br> 
+International Pharmacy Scholarship (2014), University of Queensland<br>
+Chancellor's Scholarship (2014), University of Queensland<br>
+Australian Mathematics Competition – Prize (2012), Recognized for being in the Top 0.3% 
+
+---
+
+## Gallery 
+
+*A Special Conference on Biostatistics in the New Era of Data-Driven Sciences, 2024 Nov. 15-16; Houston, TX.*
+![Gallery 1](/assets/images/gallery1.png)  
+
+
+
+
+
+
 
 
 
