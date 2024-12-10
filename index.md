@@ -3,14 +3,15 @@ layout: default
 title: Home
 ---
 
+
 <div style="display: flex; align-items: flex-start; margin: 20px;">
-  <!-- Left Section: Profile Photo -->
-  <div style="flex: 1; text-align: center; margin-right: 20px;">
-    <img src="/assets/images/profile.jpg" alt="My Photo" style="width: 150px; border-radius: 50%;">
+  <!-- Left Section: Full-Sized Photo -->
+  <div style="flex: 1; margin-right: 20px;">
+    <img src="/assets/images/profile.jpg" alt="My Photo" style="width: 100%; height: auto; object-fit: cover; border-radius: 0;">
   </div>
   
   <!-- Right Section: Bio and Connect -->
-  <div style="flex: 3;">
+  <div style="flex: 2;">
     <!-- Bio Section -->
     <div style="margin-bottom: 30px;">
       <h2><strong>Bio</strong></h2>
