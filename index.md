@@ -4,54 +4,57 @@ title: Home
 ---
 
 <div style="display: flex; align-items: flex-start; margin: 20px;">
-  <!-- Profile Photo -->
-  <div style="flex: 1;">
+  <!-- Left Section: Profile Photo -->
+  <div style="flex: 1; text-align: center; margin-right: 20px;">
     <img src="/assets/images/profile.jpg" alt="My Photo" style="width: 150px; border-radius: 50%;">
   </div>
   
-  <!-- Bio Section -->
-  <div style="flex: 3; margin-left: 20px;">
-    <h2><strong>Bio</strong></h2>
-    <p>
-      I am a Biostatistician and PhD student at the University of Texas Health Science Center at Houston. 
-      I specialize in EHR data analytics, causal machine learning, and single-cell multi-omics. I received 
-      my MS in Biostatistics from the University of Florida, and an MS (Thesis) in Pharmacology from McGill 
-      University. Previously, I completed my Pharmacist training at the University of Queensland, Australia, 
-      with first-class Honors.
-    </p>
-    <p>Let’s connect and create something amazing together!</p>
+  <!-- Right Section: Bio and Connect -->
+  <div style="flex: 3;">
+    <!-- Bio Section -->
+    <div style="margin-bottom: 30px;">
+      <h2><strong>Bio</strong></h2>
+      <p>
+        I am a Biostatistician and PhD student at the University of Texas Health Science Center at Houston. 
+        I specialize in EHR data analytics, causal machine learning, and single-cell multi-omics. I received 
+        my MS in Biostatistics from the University of Florida, and an MS (Thesis) in Pharmacology from McGill 
+        University. Previously, I completed my Pharmacist training at the University of Queensland, Australia, 
+        with first-class Honors.
+      </p>
+      <p>Let’s connect and create something amazing together!</p>
+    </div>
+    
+    <!-- Connect With Me Section -->
+    <div>
+      <h2>Connect With Me</h2>
+      <ul style="list-style-type: none; padding: 0;">
+        <li>
+          <a href="mailto:wanru.guo@uth.tmc.edu">
+            <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+          </a> 
+          <a href="mailto:wanru.guo@uth.tmc.edu">wanru.guo@uth.tmc.edu</a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/wanru-g/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+          </a> 
+          <a href="https://www.linkedin.com/in/wanru-g/">LinkedIn</a>
+        </li>
+        <li>
+          <a href="https://github.com/wguo3773">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+          </a> 
+          <a href="https://github.com/wguo3773">GitHub</a>
+        </li>
+        <li>
+          <a href="https://scholar.google.com/citations?user=Do3xkCgAAAAJ&hl=en">
+            <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
+          </a> 
+          <a href="https://scholar.google.com/citations?user=Do3xkCgAAAAJ&hl=en">Google Scholar</a>
+        </li>
+      </ul>
+    </div>
   </div>
-</div>
-
-<!-- Connect With Me Section -->
-<div style="margin-top: 50px;">
-  <h2>Connect With Me</h2>
-  <ul>
-    <li>
-      <a href="mailto:wanru.guo@uth.tmc.edu">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-      </a> 
-      <a href="mailto:wanru.guo@uth.tmc.edu">wanru.guo@uth.tmc.edu</a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/in/wanru-g/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a> 
-      <a href="https://www.linkedin.com/in/wanru-g/">LinkedIn</a>
-    </li>
-    <li>
-      <a href="https://github.com/wguo3773">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      </a> 
-      <a href="https://github.com/wguo3773">GitHub</a>
-    </li>
-    <li>
-      <a href="https://scholar.google.com/citations?user=Do3xkCgAAAAJ&hl=en">
-        <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
-      </a> 
-      <a href="https://scholar.google.com/citations?user=Do3xkCgAAAAJ&hl=en">Google Scholar</a>
-    </li>
-  </ul>
 </div>
 
 
