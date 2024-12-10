@@ -17,7 +17,7 @@ permalink: /posters/
 --> 
 
 ### Polynosinic: Polycytidylic Acid Alters The Internalization, Persistence And Inflammatory Response To *Pseudomonas Aeruginosa* In Bronchial Epithelial Cells. 
-**Wanru Guo**, Simon Rousseau<br>  
+**Wanru Guo**, Simon Rousseau<br> 
 American Thoracic Society Annual Meeting 2020*; [Link](https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A7434?download=true)<br>
 
 ### The Impact of Viral Infection on the Antibacterial Responses to *P. Aeruginosa* in Epithelial Cells.
@@ -25,10 +25,10 @@ American Thoracic Society Annual Meeting 2020*; [Link](https://www.atsjournals.o
 *Journees Quebecoises en Sante Respiratoire (JQSR) 2018*; 2018 Nov. 21-22; Montreal, Quebec, Canada.<br>  
 
 ### Engineering flagellin-antigen fusion vaccines against Group A Streptococcus. 
-**Wanru Guo**, Zhenghui Xu, Peter M. Moyle<br>  
+**Wanru Guo**, Zhenghui Xu, Peter M. Moyle<br>
 *Immunotherapy @ Brisbane 2017*; 2017 May 10-12; Brisbane, QLD, Australia.<br> 
 
 ### Biotechnology approaches for engineering flagellin-antigen fusion vaccines.
-**Wanru Guo**, Zhenghui Xu, Peter M. Moyle<br>  
+**Wanru Guo**, Zhenghui Xu, Peter M. Moyle<br> 
 *Asia Pacific Biotechnology Conference 2017*; 2017 Jul. 20-22; Melbourne, Victoria, Australia.<br> 
 
