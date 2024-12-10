@@ -57,8 +57,6 @@ title: Home
   </div>
 </div>
 
-<br><br><br>  
-
 
 <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
   <a href="#publications" style="text-decoration: none;">
@@ -96,7 +94,7 @@ title: Home
   </a>
 </div>
 
-<br><br><br><br><br><br> 
+<br><br> 
 
 
 ## **Publications**
