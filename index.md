@@ -5,13 +5,13 @@ title: Home
 
 
 <div style="display: flex; align-items: flex-start; margin: 20px;">
-  <!-- Left Section: Full-Sized Photo -->
+  <!-- Left Section: Enlarged Photo -->
   <div style="flex: 1; margin-right: 20px;">
-    <img src="/assets/images/profile.jpg" alt="My Photo" style="width: 100%; height: auto; object-fit: cover; border-radius: 0;">
+    <img src="/assets/images/profile.jpg" alt="My Photo" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
   
   <!-- Right Section: Bio and Connect -->
-  <div style="flex: 2;">
+  <div style="flex: 1;">
     <!-- Bio Section -->
     <div style="margin-bottom: 30px;">
       <h2><strong>Bio</strong></h2>
@@ -22,7 +22,6 @@ title: Home
         University. Previously, I completed my Pharmacist training at the University of Queensland, Australia, 
         with first-class Honors.
       </p>
-      <p>Let’s connect and create something amazing together!</p>
     </div>
     
     <!-- Connect With Me Section -->
