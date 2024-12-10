@@ -24,11 +24,11 @@ American Thoracic Society Annual Meeting 2020*; [Link](https://www.atsjournals.o
 **Wanru Guo**, Simon Rousseau<br> 
 *Journees Quebecoises en Sante Respiratoire (JQSR) 2018*; 2018 Nov. 21-22; Montreal, Quebec, Canada.<br>  
 
-### Engineering flagellin-antigen fusion vaccines against Group A Streptococcus. 
+### Engineering Flagellin-Antigen Fusion Vaccines Against Group A Streptococcus. 
 **Wanru Guo**, Zhenghui Xu, Peter M. Moyle<br>
 *Immunotherapy @ Brisbane 2017*; 2017 May 10-12; Brisbane, QLD, Australia.<br> 
 
-### Biotechnology approaches for engineering flagellin-antigen fusion vaccines.
+### Biotechnology Approaches for Engineering Flagellin-Antigen Fusion Vaccines.
 **Wanru Guo**, Zhenghui Xu, Peter M. Moyle<br> 
 *Asia Pacific Biotechnology Conference 2017*; 2017 Jul. 20-22; Melbourne, Victoria, Australia.<br> 
 
