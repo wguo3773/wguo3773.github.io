@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## **Publications**
 
-### **Modeling the risk of treatment discontinuation in MOUD - Subgroup analysis of disparities using Causal Machine Learning**  
+### **Modeling the Risk of Treatment Discontinuation in MOUD - Subgroup Analysis of Disparities Using Causal Machine Learning**  
 **Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer<br> 
 *In Submission (2024+)* - [Slides](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [Code](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [Poster](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20poster%20presentation%20UTH%20conference%20FINAL.pptx)
 
@@ -14,9 +14,9 @@ permalink: /publications/
 <br><br><br> 
 
 <!-- 
-### **Identifying rare cell populations and improving scRNA-seq clustering accuracy using the RECOMBINE SHC-SSL and SHC-FL algorithms**
+### **Identifying Rare Cell Populations and Improving Single-Cell ScRNA-Seq Clustering Accuracy Using the RECOMBINE SHC-SSL and SHC-FL Algorithms**
 **Wanru Guo**, Xubin Li, Anil Korkut<br>
-*RECOMB 2024*
+*Research in Computational Molecular Biology (RECOMB) 2024*
 
 ![Figure 6](/assets/images/pub_fig6.png)  
 [Slides](/assets/publications/RECOMBINE%20ppt.pptx) - [Code](/assets/publications/RECOMBINE_final_results_WG.html) 
@@ -34,17 +34,17 @@ Youssef Benfallah, **Wanru Guo**, Shoaib Sarfraz, Yanyu Yang<br>
 *MedRxiv Preprint (2024)*
 <br><br><br>  
 
-### [**Impact of alternative histopathology protocols in the dermatopathology laboratory: A prospective quality improvement study**](https://onlinelibrary.wiley.com/doi/abs/10.1111/cup.14400)
+### [**Impact of Alternative Histopathology Protocols in the Dermatopathology Laboratory: A Prospective Quality Improvement Study**](https://onlinelibrary.wiley.com/doi/abs/10.1111/cup.14400)
 Alexander Hammond, Sarah Covey, **Wanru Guo**, Scott Gregory, Nicole R Bender, Kiran Motaparthi, Addie Walker<br>
 *Journal of Cutaneous Pathology (2023)* 
 <br><br><br>  
 
-### [**Attitudes toward allopathic and osteopathic candidates in the dermatologic residency application process**](https://www.sciencedirect.com/science/article/pii/S0738081X22001286) 
+### [**Attitudes Toward Allopathic and Osteopathic Candidates in the Dermatologic Residency Application Process**](https://www.sciencedirect.com/science/article/pii/S0738081X22001286) 
 Erika J Tvedten, Jeffrey P Turnbull, **Wanru Guo**, Kiran Motaparthi<br>
 *Clinics in Dermatology (2023)* 
 <br><br><br>  
 
-### [**Training dermatology residents in dermatoscopy: A case control lecture series assessment**](https://www.sciencedirect.com/science/article/pii/S0738081X22001079) 
+### [**Training Dermatology Residents in Dermatoscopy: A Case Control Lecture Series Assessment**](https://www.sciencedirect.com/science/article/pii/S0738081X22001079) 
 Navid Farahbakhsh, Adriana Della Porta, Reesa L Monir, **Wanru Guo**, Jane M Grant-Kels, Kiran Motaparthi<br>
 *Clinics in Dermatology (2022)* 
 <br><br><br>  
@@ -55,12 +55,12 @@ Navid Farahbakhsh, Adriana Della Porta, Reesa L Monir, **Wanru Guo**, Jane M Gra
 ![Figure 3](/assets/images/pub_fig3.png)
 <br><br><br>  
 
-### [**The impact of the type I interferon mediated antiviral immune response on the response to Pseudomonas aeruginosa infection in bronchial epithelial cells**](/assets/publications/thesis_mspharamcology.pdf)
+### [**The Impact of the Type I Interferon Mediated Antiviral Immune Response on the Response to *Pseudomonas Aeruginosa* Infection in Bronchial Epithelial Cells**](/assets/publications/thesis_mspharamcology.pdf)
 **Wanru Guo**, Simon Rousseau<br>
 *Msc Thesis, McGill University (2020)*
 <br><br><br>  
 
-### [**GPCR transactivation signalling in vascular smooth muscle cells: role of NADPH oxidases and reactive oxygen species**](https://vb.bioscientifica.com/view/journals/vb/1/1/VB-18-0004.xml)
+### [**GPCR Transactivation Signalling in Vascular Smooth Muscle Cells: Role of NADPH Oxidases and Reactive Oxygen Species**](https://vb.bioscientifica.com/view/journals/vb/1/1/VB-18-0004.xml)
 Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zheng, Hossein Babaahmadi-Rezaei, Suowen Xu, Danielle Kamato, Peter J Little<br>
 *Vascular Biology (2019)*
 ![Figure 5](/assets/images/pub_fig5.png)
