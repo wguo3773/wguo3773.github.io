@@ -11,7 +11,7 @@ permalink: /posters/
 *A Special Conference in the Era of Data-Driven Sciences*; 2024 Nov. 15-16; Houston, TX.<br>
 
 <!--
-### Identifying Rare Cell Populations and Improving Single Cell Clustering Accuracy Using the RECOMBINE Algorithm. 
+### Identifying Rare Cell Populations and Improving ScRNA-Seq Clustering Accuracy Using the RECOMBINE Algorithm. 
 **Wanru Guo**, Xubin Li, Anil Korkut<br> 
 *2024 Research in Computational Molecular Biology (RECOMB24)*; 2024 May. 1-3; Cambridge, MA.<br>  
 --> 
