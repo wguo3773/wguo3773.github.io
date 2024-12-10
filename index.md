@@ -60,17 +60,6 @@ title: Home
 
 
 <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-  <a href="#bio" style="text-decoration: none;">
-    <div style="
-      padding: 10px 20px; 
-      font-size: 16px; 
-      cursor: pointer; 
-      border-bottom: 2px solid transparent;
-      transition: all 0.3s ease;
-    ">
-      Bio
-    </div>
-  </a>
   <a href="#publications" style="text-decoration: none;">
     <div style="
       padding: 10px 20px; 
