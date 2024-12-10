@@ -17,10 +17,10 @@ title: Home
       <h2><strong>Bio</strong></h2>
       <p>
         I am a Biostatistician and PhD student at the University of Texas Health Science Center at Houston. 
-        I specialize in EHR data analytics, causal machine learning, and single-cell multi-omics. I received 
+        I specialize in EHR data analytics, Causal machine learning, and Single-cell multi-omics. I received 
         my MS in Biostatistics from the University of Florida, and an MS (Thesis) in Pharmacology from McGill 
-        University. Previously, I completed my Pharmacist training at the University of Queensland, Australia, 
-        with first-class Honors.
+        University. Previously, I completed my Pharmacy training at the University of Queensland, Australia, 
+        with First-class Honors.
       </p>
     </div>
     
