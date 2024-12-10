@@ -14,7 +14,7 @@ permalink: /publications/
 <br><br><br> 
 
 <!-- 
-### **Identifying Rare Cell Populations and Improving Single-Cell ScRNA-Seq Clustering Accuracy Using the RECOMBINE SHC-SSL and SHC-FL Algorithms**
+### **Identifying Rare Cell Populations and Improving ScRNA-Seq Clustering Accuracy Using the RECOMBINE SHC-SSL and SHC-FL Algorithms**
 **Wanru Guo**, Xubin Li, Anil Korkut<br>
 *Research in Computational Molecular Biology (RECOMB) 2024*
 
