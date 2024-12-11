@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## **Publications**
+## **Publications [(Google Scholar)](https://scholar.google.com/citations?user=Do3xkCgAAAAJ&hl=en)**
 
 ### **Modeling the Risk of Treatment Discontinuation in MOUD - Subgroup Analysis of Disparities Using Causal Machine Learning**  
 **Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer<br> 
