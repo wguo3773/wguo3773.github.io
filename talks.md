@@ -9,7 +9,7 @@ permalink: /talks/
 ### Modeling the Risk of Treatment Discontinuation in MOUD - Predictors and Disparities Using Statistical and Machine Learning Approaches  
 **Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer<br> 
 *HACASA Symposium 2025*; 2025 Jan. 17; Houston, TX.<br>
-[Slides](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) 
+[Slides](/assets/publications/Wnaru%20Guo%20HACASA%202025%20copy.pptx) 
 
 ### Identifying Rare Cell Populations and Improving ScRNA-Seq Clustering Accuracy Using the RECOMBINE Algorithm  
 **Wanru Guo**, Xubin Li, Anil Korkut<br>
