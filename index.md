@@ -107,7 +107,7 @@ title: Home
 
 ### **Modeling the Risk of Treatment Discontinuation in MOUD - Subgroup Analysis of Disparities Using Causal Machine Learning**  
 **Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer<br> 
-*In Submission (2024+)* - [Slides](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [Code](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [Poster](/assets/publications/WGUO%20poster%20iqvia.pptx)
+*In Submission (2024+)* - [Slides](/assets/publications/Wnaru%20Guo%20HACASA%202025%20copy.pptx) - [Code](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [Poster](/assets/publications/WGUO%20poster%20iqvia.pptx)
 ![Figure 7](/assets/images/pub_fig7.png)
 <br><br><br> 
 
@@ -167,7 +167,7 @@ Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zhe
 ### **Modeling the Risk of Treatment Discontinuation in MOUD - Predictors and Disparities Using Statistical and Machine Learning Approaches**
 **Wanru Guo¹**, Paula Jaimes Buitron², Yanmin Gong³, Yuanxiong Guo⁴, Carolina Vivas Valencia², Cici Bauer¹<br> 
 *HACASA Symposium 2025*; 2025 Jan. 17; Houston, TX.<br> 
-[Slides](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) 
+[Slides](/assets/publications/Wnaru%20Guo%20HACASA%202025%20copy.pptx) 
 <br><br><br> 
 
 ### **Identifying Rare Cell Populations and Improving ScRNA-Seq Clustering Accuracy Using the RECOMBINE Algorithm** 
