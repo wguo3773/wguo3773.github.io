@@ -8,19 +8,15 @@ permalink: /publications/
 
 ### **Modeling the Risk of Treatment Discontinuation in MOUD - Subgroup Analysis of Disparities Using Causal Machine Learning**  
 **Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer<br> 
-*In Submission (2024+)* - [Slides](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [Code](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [Poster](/assets/publications/WGUO%20poster%20iqvia.pptx)
-
+*In Submission (2024+)* - [Slides](/assets/publications/Wnaru%20Guo%20HACASA%202025%20copy.pptx) - [Code](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [Poster](/assets/publications/WGUO%20poster%20iqvia.pptx)
 ![Figure 7](/assets/images/pub_fig7.png)  
 <br><br><br> 
 
-<!-- 
 ### **Identifying Rare Cell Populations and Improving ScRNA-Seq Clustering Accuracy Using the RECOMBINE SHC-SSL and SHC-FL Algorithms**
 **Wanru Guo**, Xubin Li, Anil Korkut<br>
 *Research in Computational Molecular Biology (RECOMB) 2024*
-
 ![Figure 6](/assets/images/pub_fig6.png)  
 [Slides](/assets/publications/RECOMBINE%20ppt.pptx) - [Code](/assets/publications/RECOMBINE_final_results_WG.html) 
--->
 <br><br><br> 
 
 ### [**Performance Analysis of Monte Carlo Algorithms in Dense Subgraph Identification**](/assets/publications/paper_dense_subgraphs.pdf)
