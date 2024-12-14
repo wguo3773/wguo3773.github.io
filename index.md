@@ -16,7 +16,7 @@ title: Home
     <div style="margin-bottom: 30px;">
       <h2><strong>Bio</strong></h2>
       <p>
-        I am a Biostatistician and PhD student at the University of Texas Health Science Center at Houston. 
+        I am a Biostatistician at the University of Texas Health Science Center at Houston. 
         I specialize in EHR data analytics, Causal machine learning, and Single-cell multi-omics. I received 
         my MS in Biostatistics from the University of Florida, and an MS (Thesis) in Pharmacology from McGill 
         University. Previously, I completed my Pharmacy training at the University of Queensland, Australia, 
@@ -108,18 +108,14 @@ title: Home
 ### **Modeling the Risk of Treatment Discontinuation in MOUD - Subgroup Analysis of Disparities Using Causal Machine Learning**  
 **Wanru Guo**, Paula Jaimes Buitron, Yanmin Gong, Yuanxiong Guo, Carolina Vivas Valencia, Cici Bauer<br> 
 *In Submission (2024+)* - [Slides](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) - [Code](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html) - [Poster](https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20poster%20presentation%20UTH%20conference%20FINAL.pptx)
-
 ![Figure 7](/assets/images/pub_fig7.png)
 <br><br><br> 
 
-<!--
 ### **Identifying Rare Cell Populations and Improving ScRNA-Seq Clustering Accuracy Using the RECOMBINE SHC-SSL and SHC-FL Algorithms**
 **Wanru Guo**, Xubin Li, Anil Korkut<br>
 *Research in Computational Molecular Biology (RECOMB) 2024*
-
 ![Figure 6](/assets/images/pub_fig6.png)  
 [Slides](/assets/publications/RECOMBINE%20ppt.pptx) - [Code](/assets/publications/RECOMBINE_final_results_WG.html) 
--->
 <br><br><br>
 
 ### [**Performance Analysis of Monte Carlo Algorithms in Dense Subgraph Identification**](/assets/publications/paper_dense_subgraphs.pdf)
