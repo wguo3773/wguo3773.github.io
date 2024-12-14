@@ -170,14 +170,14 @@ Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zhe
 [Slides](/assets/publications/WGUO%20finale%20Presentation_allgroup.pptx) 
 <br><br><br> 
 
-<!--
 ### **Identifying Rare Cell Populations and Improving ScRNA-Seq Clustering Accuracy Using the RECOMBINE Algorithm** 
 **Wanru Guo**, Xubin Li, Anil Korkut**<br>
 *International Biometrics Conference 2024*; 2024 Dec. 6-9; Atlanta, GA.<br>  
 [Slides](/assets/publications/RECOMBINE%20ppt.pptx) 
--->
 
 <br><br><br><br><br><br><br> 
+
+
 
 ## Posters 
 
@@ -186,11 +186,9 @@ Raafat Mohamed, Reearna Janke, **Wanru Guo**, Yingnan Cao, Ying Zhou, Wenhua Zhe
 *A Special Conference in the Era of Data-Driven Sciences*; 2024 Nov. 15-16; Houston, TX.
 <br><br><br>
 
-<!--
 ### **Identifying Rare Cell Populations and Improving ScRNA-Seq Clustering Accuracy Using the RECOMBINE Algorithm.** 
 **Wanru Guo**, Xubin Li, Anil Korkut<br> 
 *2024 Research in Computational Molecular Biology (RECOMB24)*; 2024 May. 1-3; Cambridge, MA.   
---> 
 <br><br><br>
 
 ### **Polynosinic: Polycytidylic Acid Alters The Internalization, Persistence And Inflammatory Response To *Pseudomonas Aeruginosa* In Bronchial Epithelial Cells.** 
