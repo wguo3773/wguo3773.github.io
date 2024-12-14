@@ -6,7 +6,7 @@ permalink: /posters/
 
 ## Posters 
 
-### **Subgroup Identification of Disparities in MOUD Treatment Discontinuation Using a VIrutal Twins Machine Learning Model.** 
+### **[Subgroup Identification of Disparities in MOUD Treatment Discontinuation Using a VIrutal Twins Machine Learning Model.](/assets/publications/WGUO%20poster%20iqvia.pptx)** 
 **Wanru Guo¹**, Paula Jaimes Buitron², Yanmin Gong³, Yuanxiong Guo⁴, Carolina Vivas Valencia², Cici Bauer¹<br> 
 *A Special Conference in the Era of Data-Driven Sciences*; 2024 Nov. 15-16; Houston, TX.
 <br><br><br>
