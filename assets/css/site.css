@@ -359,6 +359,19 @@ h1 {
 .plain-list span { color: var(--accent); font-size: 0.78rem; font-weight: 600; }
 .presentation-list { max-width: 720px; }
 
+.bibliography-list { display: grid; }
+.bibliography-item {
+  display: grid;
+  grid-template-columns: 92px minmax(0, 1fr);
+  gap: 24px;
+  padding: 19px 0;
+  border-top: 1px solid var(--line);
+}
+.bibliography-year { margin: 0; color: var(--accent); font-size: 0.78rem; font-weight: 600; }
+.bibliography-item h3 { margin: 0; font-size: 0.96rem; font-weight: 600; line-height: 1.45; }
+.bibliography-item h3 a { text-decoration: none; }
+.bibliography-item div > p { margin: 4px 0 0; color: var(--muted); font-size: 0.86rem; }
+
 footer {
   display: flex;
   justify-content: space-between;
@@ -386,6 +399,7 @@ footer svg { width: 13px; height: 13px; vertical-align: -2px; }
   .publication-compact { padding-left: 0; }
   .publication-figure { max-width: 430px; }
   .timeline-item { grid-template-columns: 1fr; gap: 5px; }
+  .bibliography-item { grid-template-columns: 1fr; gap: 4px; }
   .education-grid, .split-section { grid-template-columns: 1fr; }
   .award-groups { grid-template-columns: 1fr; gap: 24px; }
   .split-section { gap: 42px; }
