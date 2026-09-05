@@ -259,6 +259,12 @@ h1 {
   padding: 22px 0 22px 298px;
 }
 
+.publication-figures {
+  display: grid;
+  gap: 8px;
+  width: 100%;
+}
+
 .publication-figure {
   display: grid;
   width: 100%;
@@ -367,6 +373,17 @@ h1 {
   padding: 19px 0;
   border-top: 1px solid var(--line);
 }
+.bibliography-item-visual { grid-template-columns: 92px 240px minmax(0, 1fr); align-items: center; }
+.bibliography-figures { display: grid; gap: 8px; width: 100%; }
+.bibliography-figure {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  overflow: hidden;
+  border: 1px solid #edf0f1;
+  background: white;
+}
+.bibliography-figure img { width: 100%; height: 100%; object-fit: contain; }
 .bibliography-year { margin: 0; color: var(--accent); font-size: 0.78rem; font-weight: 600; }
 .bibliography-item h3 { margin: 0; font-size: 0.96rem; font-weight: 600; line-height: 1.45; }
 .bibliography-item h3 a { text-decoration: none; }
@@ -400,6 +417,7 @@ footer svg { width: 13px; height: 13px; vertical-align: -2px; }
   .publication-figure { max-width: 430px; }
   .timeline-item { grid-template-columns: 1fr; gap: 5px; }
   .bibliography-item { grid-template-columns: 1fr; gap: 4px; }
+  .bibliography-figure { max-width: 430px; margin: 10px 0; }
   .education-grid, .split-section { grid-template-columns: 1fr; }
   .award-groups { grid-template-columns: 1fr; gap: 24px; }
   .split-section { gap: 42px; }
