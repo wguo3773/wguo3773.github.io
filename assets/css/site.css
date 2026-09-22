@@ -155,6 +155,17 @@ h1 {
 
 .intro-section > p { max-width: 850px; margin: 0 0 16px; }
 
+.calculator-section > p { max-width: 850px; margin: 0 0 12px; }
+.calculator-authors { color: var(--muted); font-size: 0.88rem; }
+.calculator-links { display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0 26px; }
+.calculator-links a { display: inline-flex; align-items: center; gap: 6px; padding: 8px 12px; border: 1px solid #b9c0c4; font-size: 0.82rem; text-decoration: none; }
+.calculator-links a:first-child { border-color: var(--accent); color: var(--accent-dark); }
+.calculator-links a:hover { border-color: var(--accent); color: var(--accent); }
+.calculator-links svg { width: 15px; height: 15px; }
+.calculator-figure { width: min(100%, 650px); margin: 0; }
+.calculator-figure img { width: 100%; height: auto; border: 1px solid var(--line); }
+.calculator-figure figcaption { margin-top: 8px; color: var(--muted); font-size: 0.78rem; line-height: 1.5; }
+
 .research-tags {
   display: flex;
   flex-wrap: wrap;
