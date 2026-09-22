@@ -180,31 +180,24 @@ h1 {
   font-weight: 600;
 }
 
-.highlights ul {
+.compact-list {
   margin: 0;
-  padding: 0;
-  list-style: none;
-  border-top: 1px solid var(--line);
+  padding-left: 22px;
+  list-style: disc;
+  max-width: 900px;
 }
 
-.highlights li {
-  position: relative;
-  padding: 14px 8px 14px 20px;
-  border-bottom: 1px solid var(--line);
-  color: var(--muted);
+.compact-list li {
+  margin: 0 0 10px;
+  padding-left: 2px;
+  color: var(--ink);
   font-size: 0.9rem;
   line-height: 1.55;
 }
 
-.highlights li::before {
-  content: "";
-  position: absolute;
-  top: 21px;
-  left: 3px;
-  width: 5px;
-  height: 5px;
-  background: var(--accent);
-}
+.compact-list li:last-child { margin-bottom: 0; }
+.compact-list strong { font-weight: 600; }
+.news-list time { color: var(--muted); white-space: nowrap; }
 
 .highlights a { color: var(--accent-dark); font-weight: 500; }
 .work-status { color: var(--ink); font-style: italic; }
