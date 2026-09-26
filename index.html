@@ -56,7 +56,7 @@
 
       <section id="bio" class="section intro-section">
         <h2>Bio</h2>
-        <p>I am an oncology statistician at the University of Maryland Greenebaum Comprehensive Cancer Center. I develop statistical and machine learning methods for high-dimensional biomedical data and collaborate on translational and clinical oncology research. My work spans robust variable selection, causal inference, AI/ML, multi-omics transfer learning, real-world evidence, and survival analysis.</p>
+        <p>I am an oncology statistician at the University of Maryland Greenebaum Comprehensive Cancer Center. I develop statistical and machine learning methods for high-dimensional biomedical data and collaborate on translational and clinical oncology research. My work spans Bayesian clinical trials, robust variable selection, causal inference, AI/ML, multi-omics transfer learning, real-world evidence, and survival analysis.</p>
         <p>I earned an M.S. in Biostatistics from the University of Florida, where I received the <a href="https://phhp.ufl.edu/2021/12/03/phhp-students-honored-during-2021-international-education-week/">Outstanding Achievement Award</a>. Previously, I completed a fully funded thesis-based M.S. at McGill University as a Graduate Excellence Fellow and graduated with <a href="https://policies.uq.edu.au/document/view-current.php?id=192&amp;version=1">First Class Honours</a> from the University of Queensland in Australia, where I received Dean's Commendations and a Chancellor's Scholarship.</p>
         <div class="research-tags" aria-label="Research interests">
           <span>High-dimensional inference</span>
@@ -69,7 +69,7 @@
           <h3>Highlights</h3>
           <ul class="compact-list">
             <li>Developed two-stage Virtual Twins causal ML models to identify genomic subgroups with chemotherapy benefit in ER+/HER2- IDC breast cancer (<a href="https://aacrjournals.org/clincancerres/article/32/4_Supplement/PS1-11-13/774039/Abstract-PS1-11-13-Ai-driven-chemotherapy-decision">Clinical Cancer Research</a>; <a href="https://www.sciencedirect.com/science/article/abs/pii/S2210776225001917">Cancer Genetics, 2025</a>); developed a Virtual Twins framework to identify disparities in opioid use disorder treatment discontinuation using nationwide longitudinal claims data (<a href="https://doi.org/10.1371/journal.pmen.0000469">PLOS Mental Health</a>; <a href="https://www.proquest.com/openview/63ca73f92e8331a438d39884d08c805b/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y">thesis</a>).</li>
-            <li>Developed the first reported predictive and risk-stratification model of tarlatamab toxicity in extensive-stage small cell lung cancer (Guo &amp; Fenton, 2026; submitted to CCR; J2: <a href="https://www.asco.org/abstracts-presentations/263834">ASCO 2026</a>; <a href="https://www.rarediseaseadvisor.com/reports/dysgeusia-signal-response-tarlatamab-extensive-stage-sclc/">media coverage</a>), and developed a <a href="https://wguo3.shinyapps.io/tarla_risk_calculator/">Shiny calculator for CRS and ICANS risk</a>.</li>
+            <li>Developed the first reported predictive and risk-stratification model of tarlatamab toxicity in extensive-stage small cell lung cancer (Fenton &amp; Guo, co-first authors, 2026; <a href="#tarlatamab-ccr">submitted to CCR</a>; abstract: <a href="https://www.asco.org/abstracts-presentations/263834">ASCO 2026</a>; <a href="https://www.rarediseaseadvisor.com/reports/dysgeusia-signal-response-tarlatamab-extensive-stage-sclc/">media coverage</a>), and developed a <a href="https://wguo3.shinyapps.io/tarla_risk_calculator/">Shiny calculator for CRS and ICANS risk</a>.</li>
             <li>Developed a robust, scalable feature-selection method for ultra-high-dimensional correlated data using hierarchical group testing, outperforming competitive methods (<a href="https://arxiv.org/abs/2602.07258">Guo et al., 2026</a>; <a href="https://doi.org/10.1158/1538-7445.AM2026-6901">AACR 2026</a>).</li>
             <li>Developed a source-anchored, multi-omics transfer-learning method to improve prediction in young breast cancer and Black AML populations (Guo, Xie &amp; Tatsuoka, 2026).</li>
             <li>Developed an interactive <a href="https://wguo3.shinyapps.io/bold_boin_phase1_app/">BOLD vs BOIN Shiny simulator</a> for phase I dose-finding trials, comparing dose selection, patient allocation, and safety across configurable scenarios; BOLD achieved higher MTD-selection accuracy than BOIN at upper dose levels in the simulated settings (<a href="https://github.com/wguo3773/bold_boin_phase1_app">GitHub</a>; <a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70456">methods paper</a>).</li>
@@ -107,7 +107,7 @@
             </div>
           </article>
 
-          <article class="publication" data-publication data-selected="true">
+          <article class="publication" id="tarlatamab-ccr" data-publication data-selected="true">
             <div class="publication-figures" aria-label="Tarlatamab study figures">
               <a class="publication-figure" href="assets/images/tarlatamab-crs-roc.png" target="_blank" rel="noopener" aria-label="Open ROC curves for cytokine release syndrome prediction">
                 <img src="assets/images/tarlatamab-crs-roc.png" alt="ROC curves comparing four models for cytokine release syndrome prediction after tarlatamab treatment" loading="lazy">
@@ -116,6 +116,19 @@
                 <img src="assets/images/tarlatamab-icans-roc.png" alt="ROC curves comparing eight models for immune effector cell-associated neurotoxicity syndrome prediction after tarlatamab treatment" loading="lazy">
               </a>
             </div>
+            <div class="publication-copy">
+              <p class="publication-year">2026 · Submitted manuscript</p>
+              <h3>Predictive markers of response and toxicity to tarlatamab in patients with extensive stage small cell lung cancer: a multi-institutional real-world analysis</h3>
+              <p class="authors">G. Fenton<sup>*</sup>, <strong>W. Guo</strong><sup>*</sup>, D. Hess, A. L. Zhang, C. Tatsuoka, A. Green, M. Sittig, R. Mehra, A. Simms, A. Dowlati, T. K. Owonikoko, K. Scilla, M. Hsu, L. Alder, S. Rosner</p>
+              <p class="venue">Submitted to <em>Clinical Cancer Research</em> (CCR)</p>
+              <p class="authors"><sup>*</sup>Equal contribution as co-first authors.</p>
+            </div>
+          </article>
+
+          <article class="publication" data-publication data-selected="true">
+            <a class="publication-figure" href="assets/images/tarlatamab-dysgeusia-survival.png" target="_blank" rel="noopener" aria-label="Open survival curves by dysgeusia">
+              <img src="assets/images/tarlatamab-dysgeusia-survival.png" alt="Progression-free and overall survival by dysgeusia among patients with at least 30 days of follow-up after tarlatamab" loading="lazy">
+            </a>
             <div class="publication-copy">
               <p class="publication-year">2026 · Journal abstract</p>
               <h3><a href="https://doi.org/10.1200/JCO.2026.44.16_suppl.8097">Predictive markers of response and toxicity to tarlatamab in patients with extensive-stage small cell lung cancer (ES-SCLC): a multi-institutional real-world analysis</a></h3>
@@ -293,6 +306,18 @@
       <section id="posters" class="section bibliography-section">
         <h2>Posters</h2>
         <div class="bibliography-list">
+          <article class="bibliography-item bibliography-item-visual" id="sabcs-2026">
+            <p class="bibliography-year">2026</p>
+            <a class="bibliography-figure" href="assets/images/sabcs-2026-transfer-learning.png" target="_blank" rel="noopener" aria-label="Open transfer-learning survival discrimination figure">
+              <img src="assets/images/sabcs-2026-transfer-learning.png" alt="Fifteen panels comparing survival discrimination in patients younger than 50 across three older source-age cohorts" loading="lazy">
+            </a>
+            <div>
+              <h3>Layer-specific transfer learning improves multi-omics survival prediction in younger breast cancer patients</h3>
+              <p><strong>W. Guo</strong>, J. Xie, C. Tatsuoka · Accepted poster · San Antonio Breast Cancer Symposium (SABCS) 2026 · December 8–11, 2026 · San Antonio, Texas</p>
+              <p>Abstract 3160 · Presentation P3-3-09 · Scheduled December 10, 2026</p>
+              <div class="publication-links"><a href="assets/images/sabcs-2026-transfer-learning.png" target="_blank" rel="noopener">Figure</a></div>
+            </div>
+          </article>
           <article class="bibliography-item"><p class="bibliography-year">2026</p><div><h3>A novel hierarchical feature selection method for group-correlated genomic data</h3><p><strong>W. Guo</strong> · Eastern North American Regional Conference · Indianapolis, Indiana</p><div class="publication-links"><a href="assets/publications/enar-2026-poster-wanru-guo.pptx">Poster (PPTX)</a></div></div></article>
           <article class="bibliography-item"><p class="bibliography-year">2025</p><div><h3><a href="https://www.jvir.org/action/showPdf?pii=S1051-0443%2825%2900571-8">Refining chemotherapy decisions in fertility-preserving, low-risk ER+/HER2- breast cancer via machine learning genomic subgrouping</a></h3><p><strong>W. Guo</strong>, C. Tatsuoka · The Symposium on Clinical Interventional Oncology (CIO) · October 17-19, 2025 · Miami Beach, Florida</p><div class="publication-links"><a href="https://www.jvir.org/action/showPdf?pii=S1051-0443%2825%2900571-8">Abstract</a><a href="assets/publications/cio-2025-poster-wanru-guo.pdf">Poster (PDF)</a></div></div></article>
           <article class="bibliography-item bibliography-item-visual"><p class="bibliography-year">2024</p><a class="bibliography-figure" href="assets/publications/moud-virtual-twins-poster.png" target="_blank" rel="noopener" aria-label="Open full MOUD Virtual Twins poster"><img src="assets/images/moud-poster-results-preview.png" alt="Poster results showing retention curves, a Cox model forest plot, and predictive model performance curves" loading="lazy"></a><div><h3><a href="assets/publications/moud-virtual-twins-poster.png" target="_blank" rel="noopener">Subgroup identification of disparities in MOUD treatment discontinuation using a Virtual Twins machine learning model</a></h3><p><strong>W. Guo</strong>, P. J. Buitron, Y. Gong, Y. Guo, C. V. Valencia, C. X. Bauer · A Special Conference in the Era of Data-Driven Sciences · Houston, Texas</p><div class="publication-links"><a href="assets/publications/moud-virtual-twins-poster.png" target="_blank" rel="noopener">Poster (PNG)</a></div></div></article>
