@@ -6,6 +6,18 @@ permalink: /posters/
 
 ## Posters 
 
+### **Transfer learning improves multi-omics survival prediction for Black patients with pediatric AML using White target-AML patients as the source cohort**
+**W. Guo**, C. Tatsuoka<br>
+Accepted poster presentation. *American Society of Hematology (ASH) Annual Meeting 2026*; Publication No. 2581.
+<br><br>
+
+### **Outcomes after failure of first line hypomethylating agent and venetoclax in patients with acute myeloid leukemia with and without targetable mutations**
+D. T. Chen, S. Li, S. Silva, M. Smith, **W. Guo**, C. Tatsuoka, A. Zaver, A. Stonestrom, S. Niyongere, S. Saint Fleur-Lominy, M. R. Baer, V. H. Duong<br>
+Accepted poster presentation. *American Society of Hematology (ASH) Annual Meeting 2026*.
+
+[![Two Kaplan-Meier plots comparing overall survival for matched targeted salvage versus no salvage or unmatched salvage](/assets/images/ash-2026-aml-salvage-survival.png)](/assets/images/ash-2026-aml-salvage-survival.png)
+<br><br>
+
 ### **[Subgroup Identification of Disparities in MOUD Treatment Discontinuation Using a VIrutal Twins Machine Learning Model.](/assets/publications/WGUO%20poster%20iqvia.pptx)** 
 **Wanru Guo¹**, Paula Jaimes Buitron², Yanmin Gong³, Yuanxiong Guo⁴, Carolina Vivas Valencia², Cici Bauer¹<br> 
 *A Special Conference in the Era of Data-Driven Sciences*; 2024 Nov. 15-16; Houston, TX.
@@ -35,4 +47,3 @@ American Thoracic Society Annual Meeting 2020*; [Link](https://www.atsjournals.o
 **Wanru Guo**, Zhenghui Xu, Peter M. Moyle<br> 
 *Asia Pacific Biotechnology Conference 2017*; 2017 Jul. 20-22; Melbourne, Victoria, Australia. 
 <br><br><br>
-
