@@ -9,7 +9,7 @@
     <link rel="icon" href="assets/images/profile.jpg">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/site.css">
     <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js" defer></script>
     <script src="assets/js/site.js" defer></script>
@@ -71,12 +71,12 @@
         <div class="highlights">
           <h3>Highlights</h3>
           <ul class="compact-list">
-            <li>Developed two-stage Virtual Twins causal ML models to identify genomic subgroups with chemotherapy benefit in ER+/HER2- IDC breast cancer (<a href="https://aacrjournals.org/clincancerres/article/32/4_Supplement/PS1-11-13/774039/Abstract-PS1-11-13-Ai-driven-chemotherapy-decision">Clinical Cancer Research</a>; <a href="https://www.sciencedirect.com/science/article/abs/pii/S2210776225001917">Cancer Genetics, 2025</a>); developed a Virtual Twins framework to identify disparities in opioid use disorder treatment discontinuation using nationwide longitudinal claims data (<a href="https://doi.org/10.1371/journal.pmen.0000469">PLOS Mental Health</a>; <a href="https://www.proquest.com/openview/63ca73f92e8331a438d39884d08c805b/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y">thesis</a>).</li>
-            <li>Developed the first reported predictive and risk-stratification model of tarlatamab toxicity in extensive-stage small cell lung cancer (<a href="#tarlatamab-ccr">Fenton &amp; Guo, co-first authors, 2026; submitted to CCR</a>; <a href="https://doi.org/10.1200/JCO.2026.44.16_suppl.8097">JCO abstract</a>; <a href="https://www.asco.org/abstracts-presentations/263834">ASCO 2026</a>; <a href="https://www.rarediseaseadvisor.com/reports/dysgeusia-signal-response-tarlatamab-extensive-stage-sclc/">media coverage</a>), and developed a <a href="https://wguo3.shinyapps.io/tarla_risk_calculator/">Shiny calculator for CRS and ICANS risk</a>.</li>
-            <li>Developed a robust, scalable feature-selection method for ultra-high-dimensional correlated data using hierarchical group testing, outperforming competitive methods (<a href="https://arxiv.org/abs/2602.07258">Guo et al., 2026</a>; <a href="https://doi.org/10.1158/1538-7445.AM2026-6901">AACR 2026</a>).</li>
-            <li>Developed a source-anchored, multi-omics transfer-learning method to improve prediction in young breast cancer and Black AML populations (Guo, Xie &amp; Tatsuoka, 2026; <a href="#sabcs-2026">younger breast cancer work accepted as a poster at SABCS 2026</a>).</li>
-            <li>Developed an interactive <a href="https://wguo3.shinyapps.io/bold_boin_phase1_app/">BOLD vs BOIN Shiny simulator</a> for phase I dose-finding trials, comparing dose selection, patient allocation, and safety across configurable scenarios; BOLD achieved higher MTD-selection accuracy than BOIN at upper dose levels in the simulated settings (<a href="https://github.com/wguo3773/bold_boin_phase1_app">GitHub</a>; <a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70456">methods paper</a>).</li>
-            <li>Conducted studies of AML outcomes (ASH 2026), HGSOC treatment outcomes (SGO 2027), and smoking-related emergency department utilization using longitudinal causal inference (<span class="work-status">Nicotine &amp; Tobacco Research, 2026+</span>).</li>
+            <li>Developed BOLDx, a Bayesian framework incorporating prediction-guided intervention and delayed outcomes for early-phase trial dose finding, achieving higher MTD-selection accuracy and substantially fewer DLTs than BOIN and TITE-BOIN in evaluated simulations (<a href="https://github.com/wguo3773/BOLDx">R package</a>, <a href="https://wguo3.shinyapps.io/bold_boin_phase1_app/">Shiny</a>, <a href="https://wguo3773.github.io/BOLDx/">Tutorial</a>).</li>
+            <li>Developed STAR-EN, a novel multi-omics transfer-learning method with adaptive borrowing for survival prediction and risk stratification in underrepresented populations (<a href="#lsat-en-preprint">J3</a>, <a href="#ash-2026-transfer-learning">J4</a>; <a href="#sabcs-2026">P1</a>) (<a href="https://github.com/wguo3773/star-en">Python package</a>, <a href="https://wguo3773.github.io/star-en/">Tutorial</a>).</li>
+            <li>Developed a Virtual Twins framework to identify disparities in opioid use disorder treatment discontinuation using nationwide longitudinal claims data (<a href="https://doi.org/10.1371/journal.pmen.0000469">J8</a>, <a href="https://www.proquest.com/openview/63ca73f92e8331a438d39884d08c805b/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y">T1</a>). Developed two-stage Virtual Twins causal ML models to identify genomic subgroups with chemotherapy benefit in ER+/HER2- IDC breast cancer (<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210776225001917">J10</a>, <a href="https://aacrjournals.org/clincancerres/article/32/4_Supplement/PS1-11-13/774039/Abstract-PS1-11-13-Ai-driven-chemotherapy-decision">J11</a>).</li>
+            <li>Developed the first reported predictive and risk-stratification model of tarlatamab toxicity in extensive-stage small cell lung cancer (<a href="#tarlatamab-ccr">J1: submitted to CCR</a>, <a href="https://www.medrxiv.org/content/10.64898/2026.10.02.26364624v1">medRxiv preprint</a>; <a href="https://doi.org/10.1200/JCO.2026.44.16_suppl.8097">J6: ASCO 2026</a>; <a href="https://www.rarediseaseadvisor.com/reports/dysgeusia-signal-response-tarlatamab-extensive-stage-sclc/">media coverage</a>).</li>
+            <li>Developed a robust, scalable feature-selection method for ultra-high-dimensional correlated data using hierarchical group testing, outperforming competitive methods (<a href="https://arxiv.org/abs/2602.07258">J9</a>; <a href="https://doi.org/10.1158/1538-7445.AM2026-6901">AACR 2026</a>; <a href="#enar-2026">ENAR 2026</a>).</li>
+            <li>Conducted the first longitudinal, nationwide analysis of smoking patterns and cessation with emergency department utilization using GEE, propensity score matching, and time-dependent marginal structural models with inverse probability weighting (<a href="#smoking-preprint">J2</a>; <a href="https://www.medrxiv.org/content/10.64898/2026.10.31.26366988v1">medRxiv preprint</a>). Conducted RWE studies of AML salvage outcomes after treatment failure (<a href="#ash-2026-aml-salvage">ASH 2026, J5</a>) and HGSOC treatment outcomes and survival (<a href="https://www.sgo.org/events/annual-meeting/">SGO 2027</a>).</li>
           </ul>
         </div>
       </section>
@@ -150,7 +150,7 @@
             </div>
           </article>
 
-          <article class="publication" data-publication data-selected="true">
+          <article class="publication" id="smoking-preprint" data-publication data-selected="true">
             <a class="publication-figure" href="assets/images/smoking-study-forest.png" target="_blank" rel="noopener" aria-label="Open smoking study forest plot">
               <img src="assets/images/smoking-study-forest.png" alt="Forest plot of survey-weighted associations between smoking predictors and emergency room utilization" loading="lazy">
             </a>
@@ -241,7 +241,7 @@
             </div>
           </article>
 
-          <article class="publication" data-publication data-selected="true">
+          <article class="publication" data-publication data-selected="false" hidden>
             <a class="publication-figure" href="https://doi.org/10.48550/arXiv.2405.11688" aria-label="View dense subgraph preprint">
               <img src="assets/images/pub_fig2.png" alt="Edge-density trajectories for Monte Carlo dense-subgraph algorithms under SM, SA, and SAA settings" loading="lazy">
             </a>
@@ -335,7 +335,7 @@
           </article>
           <article class="bibliography-item bibliography-item-visual">
             <p class="bibliography-year">2020</p>
-            <a class="bibliography-figure" href="assets/publications/thesis_mspharamcology.pdf" aria-label="Open McGill master's thesis"><img src="assets/images/pub_fig3.png" alt="TLR3 and type I interferon signaling pathway in bronchial epithelial cells" loading="lazy"></a>
+            <a class="bibliography-figure" href="assets/images/mcgill-thesis-results.png" target="_blank" rel="noopener" aria-label="Open experimental results from the McGill master's thesis"><img src="assets/images/mcgill-thesis-results.png" alt="McGill thesis Figure 9: Pseudomonas aeruginosa internalization and cell viability following poly I:C treatment in BEAS-2B cells" loading="lazy"></a>
             <div><h3><a href="assets/publications/thesis_mspharamcology.pdf">Impact of the type I interferon-mediated antiviral immune response on the response to <em>Pseudomonas aeruginosa</em> infection in bronchial epithelial cells</a></h3><p><strong>W. Guo</strong> · M.Sc. thesis · McGill University, Montreal, Canada</p><div class="publication-links"><a href="assets/publications/thesis_mspharamcology.pdf">Thesis (PDF)</a></div></div>
           </article>
         </div>
@@ -355,7 +355,7 @@
               <p>Abstract 3160 · Presentation P3-3-09 · Scheduled December 10, 2026</p>
             </div>
           </article>
-          <article class="bibliography-item"><p class="bibliography-year">2026</p><div><h3>A novel hierarchical feature selection method for group-correlated genomic data</h3><p><strong>W. Guo</strong> · Eastern North American Regional Conference · Indianapolis, Indiana</p><div class="publication-links"><a href="assets/publications/enar-2026-poster-wanru-guo.pptx">Poster (PPTX)</a></div></div></article>
+          <article class="bibliography-item" id="enar-2026"><p class="bibliography-year">2026</p><div><h3>A novel hierarchical feature selection method for group-correlated genomic data</h3><p><strong>W. Guo</strong> · Eastern North American Regional Conference · Indianapolis, Indiana</p><div class="publication-links"><a href="assets/publications/enar-2026-poster-wanru-guo.pptx">Poster (PPTX)</a></div></div></article>
           <article class="bibliography-item"><p class="bibliography-year">2025</p><div><h3><a href="https://www.jvir.org/action/showPdf?pii=S1051-0443%2825%2900571-8">Refining chemotherapy decisions in fertility-preserving, low-risk ER+/HER2- breast cancer via machine learning genomic subgrouping</a></h3><p><strong>W. Guo</strong>, C. Tatsuoka · The Symposium on Clinical Interventional Oncology (CIO) · October 17-19, 2025 · Miami Beach, Florida</p><div class="publication-links"><a href="https://www.jvir.org/action/showPdf?pii=S1051-0443%2825%2900571-8">Abstract</a><a href="assets/publications/cio-2025-poster-wanru-guo.pdf">Poster (PDF)</a></div></div></article>
           <article class="bibliography-item bibliography-item-visual"><p class="bibliography-year">2024</p><a class="bibliography-figure" href="assets/publications/moud-virtual-twins-poster.png" target="_blank" rel="noopener" aria-label="Open full MOUD Virtual Twins poster"><img src="assets/images/moud-poster-results-preview.png" alt="Poster results showing retention curves, a Cox model forest plot, and predictive model performance curves" loading="lazy"></a><div><h3><a href="assets/publications/moud-virtual-twins-poster.png" target="_blank" rel="noopener">Subgroup identification of disparities in MOUD treatment discontinuation using a Virtual Twins machine learning model</a></h3><p><strong>W. Guo</strong>, P. J. Buitron, Y. Gong, Y. Guo, C. V. Valencia, C. X. Bauer · A Special Conference in the Era of Data-Driven Sciences · Houston, Texas</p><div class="publication-links"><a href="assets/publications/moud-virtual-twins-poster.png" target="_blank" rel="noopener">Poster (PNG)</a></div></div></article>
           <article class="bibliography-item bibliography-item-visual"><p class="bibliography-year">2024</p><a class="bibliography-figure" href="assets/publications/RECOMBINE ppt.pptx" aria-label="Download RECOMBINE presentation slides"><img src="assets/images/pub_fig6.png" alt="UMAP comparison of rare-cell clustering results from Seurat, SHC, and SHC-SSL" loading="lazy"></a><div><h3>Identifying rare cell populations and improving single-cell RNA-seq clustering accuracy using the RECOMBINE algorithm</h3><p><strong>W. Guo</strong>, X. Li, A. Korkut · Research in Computational Molecular Biology · Cambridge, Massachusetts</p><div class="publication-links"><a href="assets/publications/RECOMBINE ppt.pptx">Slides (PPTX)</a><a href="assets/publications/RECOMBINE_final_results_WG.html">Results (HTML)</a></div></div></article>
@@ -410,6 +410,7 @@
 
       <footer>
         <p>© <span id="current-year">2026</span> Wanru Guo</p>
+        <p class="design-credit">Layout inspired by <a href="https://xiyuanzh.github.io/">Xiyuan Zhang</a> and <a href="https://github.com/msaveski/www_personal">Martin Saveski</a>.</p>
         <a href="#main">Back to top <i data-lucide="arrow-up"></i></a>
       </footer>
     </main>
