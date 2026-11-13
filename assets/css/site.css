@@ -6,8 +6,8 @@
   --accent: #0b6b67;
   --accent-dark: #07514e;
   --paper: #ffffff;
-  --serif: "Newsreader", Georgia, serif;
-  --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --serif: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --sans: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -19,8 +19,8 @@ body {
   background: var(--paper);
   color: var(--ink);
   font-family: var(--sans);
-  font-size: 16px;
-  line-height: 1.62;
+  font-size: 15px;
+  line-height: 1.6;
   letter-spacing: 0;
 }
 
@@ -57,22 +57,22 @@ button { font: inherit; }
 }
 
 .site-shell {
-  width: min(100% - 40px, 1040px);
+  width: min(100% - 40px, 800px);
   margin: 0 auto;
 }
 
 .profile {
   display: grid;
-  grid-template-columns: 210px minmax(0, 1fr);
-  gap: 42px;
+  grid-template-columns: 175px minmax(0, 1fr);
+  gap: 34px;
   align-items: center;
-  min-height: 310px;
-  padding: 42px 0 34px;
+  min-height: 260px;
+  padding: 50px 0 40px;
 }
 
 .profile-photo {
-  width: 210px;
-  height: 230px;
+  width: 175px;
+  height: 190px;
   object-fit: cover;
   object-position: center 34%;
   filter: saturate(0.92) contrast(1.02);
@@ -83,7 +83,7 @@ button { font: inherit; }
   color: var(--accent);
   font-size: 0.76rem;
   font-weight: 600;
-  letter-spacing: 0.12em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -94,8 +94,8 @@ h1, h2 {
 
 h1 {
   margin: 0 0 12px;
-  font-size: clamp(3rem, 7vw, 5.3rem);
-  line-height: 0.98;
+  font-size: 50px;
+  line-height: 1.1;
 }
 
 .role, .institution, .email { margin: 0; }
@@ -124,7 +124,7 @@ h1 {
 .section-nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 31px;
+  gap: 24px;
   padding: 18px 0;
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
@@ -134,7 +134,7 @@ h1 {
   color: var(--ink);
   font-size: 0.75rem;
   font-weight: 600;
-  letter-spacing: 0.12em;
+  letter-spacing: 0;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -142,14 +142,14 @@ h1 {
 .section-nav a:hover { color: var(--accent); }
 
 .section {
-  padding: 52px 0;
+  padding: 36px 0;
   border-bottom: 1px solid var(--line);
   scroll-margin-top: 15px;
 }
 
 .section h2 {
   margin: 0 0 24px;
-  font-size: 2.2rem;
+  font-size: 26px;
   line-height: 1.1;
 }
 
@@ -228,7 +228,7 @@ h1 {
   cursor: pointer;
   font-size: 0.76rem;
   font-weight: 600;
-  letter-spacing: 0.06em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -238,10 +238,10 @@ h1 {
 
 .publication {
   display: grid;
-  grid-template-columns: 270px minmax(0, 1fr);
-  gap: 28px;
+  grid-template-columns: 200px minmax(0, 1fr);
+  gap: 24px;
   align-items: center;
-  padding: 28px 0;
+  padding: 20px 0;
   border-bottom: 1px solid var(--line);
 }
 
@@ -249,7 +249,7 @@ h1 {
 
 .publication-compact {
   grid-template-columns: 1fr;
-  padding: 22px 0 22px 298px;
+  padding: 20px 0 20px 224px;
 }
 
 .publication-figures {
@@ -296,7 +296,7 @@ h1 {
   color: var(--accent);
   font-size: 0.73rem;
   font-weight: 600;
-  letter-spacing: 0.07em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -366,7 +366,7 @@ h1 {
   padding: 19px 0;
   border-top: 1px solid var(--line);
 }
-.bibliography-item-visual { grid-template-columns: 92px 240px minmax(0, 1fr); align-items: center; }
+.bibliography-item-visual { grid-template-columns: 58px 200px minmax(0, 1fr); align-items: center; }
 .bibliography-figures { display: grid; gap: 8px; width: 100%; }
 .bibliography-figure {
   display: block;
@@ -389,7 +389,10 @@ footer {
   padding: 28px 0 44px;
   color: var(--muted);
   font-size: 0.78rem;
+  gap: 12px;
+  flex-wrap: wrap;
 }
+.design-credit { font-size: 0.7rem; }
 footer p { margin: 0; }
 footer a { text-decoration: none; }
 footer svg { width: 13px; height: 13px; vertical-align: -2px; }
@@ -397,11 +400,11 @@ footer svg { width: 13px; height: 13px; vertical-align: -2px; }
 [hidden] { display: none !important; }
 
 @media (max-width: 760px) {
-  .site-shell { width: min(100% - 28px, 1040px); }
+  .site-shell { width: min(100% - 28px, 800px); }
   .profile { grid-template-columns: 112px minmax(0, 1fr); gap: 20px; min-height: 230px; padding: 28px 0; }
   .profile-photo { width: 112px; height: 144px; }
   .eyebrow { font-size: 0.65rem; }
-  h1 { font-size: clamp(2.35rem, 11vw, 4rem); }
+  h1 { font-size: 38px; }
   .role, .institution, .email { font-size: 0.87rem; }
   .section-nav { gap: 18px 24px; }
   .section { padding: 42px 0; }
